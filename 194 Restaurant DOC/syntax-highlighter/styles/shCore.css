@@ -170,7 +170,7 @@
   background: none !important;
 }
 .syntaxhighlighter.printing .line .number {
-  color: #bbbbbb !important;
+  color: #f0e5d4 !important;
 }
 .syntaxhighlighter.printing .line .content {
   color: black !important;
@@ -191,7 +191,7 @@
   color: blue !important;
 }
 .syntaxhighlighter.printing .keyword {
-  color: #006699 !important;
+  color: #7b894e !important;
   font-weight: bold !important;
 }
 .syntaxhighlighter.printing .preprocessor {
@@ -204,7 +204,7 @@
   color: #009900 !important;
 }
 .syntaxhighlighter.printing .functions {
-  color: #ff1493 !important;
+  color: #7b894e !important;
 }
 .syntaxhighlighter.printing .constants {
   color: #0066cc !important;
@@ -219,7 +219,7 @@
   color: #ff1493 !important;
 }
 .syntaxhighlighter.printing .color3, .syntaxhighlighter.printing .color3 a {
-  color: red !important;
+  color: #7b894e !important;
 }
 .syntaxhighlighter.printing .break, .syntaxhighlighter.printing .break a {
   color: black !important;

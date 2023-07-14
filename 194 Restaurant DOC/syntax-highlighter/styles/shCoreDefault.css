@@ -167,7 +167,7 @@
 .syntaxhighlighter.printing .line.highlighted .number,
 .syntaxhighlighter.printing .line.highlighted.alt1 .content,
 .syntaxhighlighter.printing .line.highlighted.alt2 .content {
-  background: none !important;
+  background: #7b894e !important;
 }
 .syntaxhighlighter.printing .line .number {
   color: #bbbbbb !important;
